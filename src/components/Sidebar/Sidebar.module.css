@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgb(249, 250, 251);
+    width: 65px;
+    height: 100vh;
+    padding: 1rem 0.6rem;
+    text-align: center;
+}
+
+#logo {
+    max-width: 100%;
+    padding: 6px;
+}
+
+.iconContainer {
+    margin-top: 1rem;
+
+    border-top : 3px solid rgb(229,231,235);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
